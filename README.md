@@ -1,4 +1,6 @@
 # A Simple Hello World Node Demo 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneriia19911991%2Ftest-tools.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneriia19911991%2Ftest-tools?ref=badge_shield)
+
 
 Example used to demonstrate ```docker init``` CLI for a simple Hello World Node Program
 
@@ -79,3 +81,7 @@ This utility will walk you through creating the following files with sensible de
 Hello from Docker!
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneriia19911991%2Ftest-tools.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneriia19911991%2Ftest-tools?ref=badge_large)
